@@ -1,5 +1,5 @@
 # cyber-steer.github.io
-[Portfolio](https://google.com, "포트폴리오 바로가기")
+[포트폴리오 바로 가기](https://google.com, "포트폴리오 바로가기")
 
 # 참조
 ## 템플릿 출처
