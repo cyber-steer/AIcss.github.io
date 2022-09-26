@@ -9,5 +9,5 @@ License: https://bootstrapmade.com/license/
 ## 배경 사진 출처
 URL : https://torange.biz/fx/responsive-layout-design-business-template-fabric-background-purple-190187
 
-
-![레이아웃](https://github.com/cyber-steer/cyber-steer.github.io/blob/main/media/img/back.png)
+## 레이아웃
+![레이아웃](https://github.com/cyber-steer/cyber-steer.github.io/blob/main/media/markdown/layout.png)
