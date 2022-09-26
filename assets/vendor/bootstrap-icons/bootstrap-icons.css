@@ -1955,11 +1955,6 @@ url("./fonts/bootstrap-icons.woff?8d200481aa7f02a2d63a331fc782cfaf") format("wof
   height:3rem;
   display:inline-block;
 }
-.blog-icon::after{
-  content: "";
-  background-image: url("media/img/icon/blog.png");
-  background-size:3rem 3rem;
-  width:3rem;
-  height:3rem;
-  display:inline-block;
+.blog-icon img{
+  width: 1.5rem;
 }
