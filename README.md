@@ -1,5 +1,5 @@
 # cyber-steer.github.io
-[cyber-steer.github.io](http://www.cyber-steer.github.io“포트폴리오 주소”)
+[Portfolio](https://google.com, "포트폴리오 바로가기")
 
 # 참조
 ## 템플릿 출처
