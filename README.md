@@ -1,5 +1,5 @@
 # cyber-steer.github.io
-[포트폴리오 바로 가기](https://cyber-steer.github.io/,"포트폴리오")
+[포트폴리오 바로 가기](https://cyber-steer.github.io/)
 
 # 참조
 ## 템플릿 출처
