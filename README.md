@@ -1,5 +1,6 @@
 # cyber-steer.github.io
 [포트폴리오 바로 가기](https://cyber-steer.github.io/)
+[동아리소개 바로 가기](https://cyber-steer.github.io/club-info-app/#info)
 
 # 참조
 ## 템플릿 출처
