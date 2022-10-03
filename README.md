@@ -1,6 +1,7 @@
 # cyber-steer.github.io
 [포트폴리오 바로 가기](https://cyber-steer.github.io/) <br>
 [동아리소개 바로 가기](https://cyber-steer.github.io/club-info-app/)
+[netlify 바로 가기](https://candid-madeleine-12d243.netlify.app/)
 
 # 참조
 ## 템플릿 출처
